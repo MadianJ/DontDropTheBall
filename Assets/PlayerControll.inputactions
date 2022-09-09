@@ -1,0 +1,33 @@
+{
+    "name": "PlayerControll",
+    "maps": [
+        {
+            "name": "Test",
+            "id": "02199823-dd25-4652-8ee1-774bb2cb6d20",
+            "actions": [
+                {
+                    "name": "FingerPos",
+                    "type": "Value",
+                    "id": "fce29846-b1f4-45dd-8026-223068cda52a",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "57aac1e8-64b5-4549-a57b-c46e05c96eeb",
+                    "path": "<Touchscreen>/primaryTouch",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "FingerPos",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
